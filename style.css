@@ -181,6 +181,19 @@ body {
     transition: all 0.3s ease;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 .input-field::placeholder {
     color: rgba(0, 255, 255, 0.5);
 }
