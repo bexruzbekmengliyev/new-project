@@ -212,6 +212,11 @@ const qaDatabase = {
     "20/4": "5",
     "100/10": "10",
     "50/5": "10",
+
+
+
+
+
     
     // UMUMIY SAVOLLAR
     "nima": "Bu savol juda keng! 😊 Iltimos, savolingizni aniqroq qilib bering. Masalan: 'Nima qilyapsan?', 'Nima gap?', 'Bu nima?' va hokazo.",
