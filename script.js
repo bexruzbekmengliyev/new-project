@@ -427,6 +427,9 @@ function addMessage(text, sender) {
         <div class="message-label">${label}</div>
         <div>${formattedText}</div>
     `;
+
+
+
     
     messagesDiv.appendChild(messageDiv);
     messagesDiv.scrollTop = messagesDiv.scrollHeight;
